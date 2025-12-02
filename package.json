@@ -1,0 +1,24 @@
+{
+  "name": "trabajo-final",
+  "version": "1.0.0",
+  "description": "Este proyecto es parte del taller de Git y CI en SENA.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harold-web-10/trabajo-final.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Harold-web-10/trabajo-final/issues"
+  },
+  "homepage": "https://github.com/Harold-web-10/trabajo-final#readme"
+}
